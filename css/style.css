@@ -30,7 +30,7 @@ body {
 	margin: 15px;
 	width: 270px;
 	height: 270px;
-	background-image: url('/images/image-qr-code.png');
+	background-image: url('../images/image-qr-code.png');
 	background-size: cover;
 	border-radius: 8px;
 }
